@@ -827,7 +827,7 @@ main .main-content{
 .section1 .channels ul li{
     border: none;
     background-color:var(--post-color2);
-    border: 1px solid var(--border-color2);
+    border: 1px solid var(--border-color);
     padding: 0px;
 }
 .main-posts ul li .the-post{
